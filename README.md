@@ -8,6 +8,3 @@
 Главная сила в человеке – это сила духа. Ю. А. Гагарин.
 
 
-![image](https://github.com/user-attachments/assets/42d85581-7aeb-4abb-b459-86e2549c104d)
-
-
