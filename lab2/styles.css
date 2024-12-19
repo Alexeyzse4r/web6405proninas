@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9C27B0;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center; /* Выравнивание текста по центру */
+}
+
+td:nth-child(1) {
+    text-align: left; /* Выравнивание текста по левому краю для первого столбца */
+}
+
+td:nth-child(3) {
+    text-align: right; /* Выравнивание текста по правому краю для третьего столбца */
+}
+
+footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #f1f1f1;
+}
